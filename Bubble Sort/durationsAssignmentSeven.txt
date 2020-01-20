@@ -1,0 +1,39 @@
+100
+Duration = 2 ms
+Sort Method Duration = 1 ms
+
+1,000
+Duration = 12 ms
+Sort Method Duration = 10 ms
+
+10,000
+Duration = 155 ms
+Sort Method Duration = 51 ms
+
+25,000
+Duration = 857 ms
+Sort Method Duration = 118 ms
+
+50,000
+Duration = 3249 ms
+Sort Method Duration = 205 ms
+
+100,000
+Duration = 12723 ms
+Sort Method Duration = 433 ms
+
+250,000
+Duration = 78301 ms
+Sort Method Duration = 1013 ms
+
+500,000
+Duration = 314107 ms
+Sort Method Duration = 1981 ms
+
+750,000
+Duration = 706539 ms
+Sort Method Duration = 2979 ms
+
+1 million:
+Duration = 1235394 ms
+Sort Method Duration = 3967 ms
